@@ -17,7 +17,7 @@ Currently pursuing an **MSc in Artificial Intelligence** at the University of Ab
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Faizan Abbas"
         self.location = "Aberdeen, UK 🏴󐁧󐁢󐁳󐁣󐁴󐁿"
         self.education = "MSc AI @ University of Aberdeen"
         self.degree = "First-Class Honours in Computing Science"
@@ -169,7 +169,7 @@ graph TD
 
 **BSc Computing Science** - University of Aberdeen (First-Class Honours, 2025)
 - Dissertation: Privacy Leakage in Machine Learning
-- Global Student Ambassador | Student Representative
+- Global Student Ambassador | Student Representative | Student Support Worker | Student Focus Group Member
 - Teaching Assistant for 200+ students across 5 courses
 
 ## Impact Beyond Code
@@ -184,9 +184,9 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/faizan-abbas-b774a2217)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizankhuwaja5@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://yourwebsite.com) -->
 <!-- [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/yourprofile) -->
 
 </div>
