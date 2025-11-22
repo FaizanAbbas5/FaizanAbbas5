@@ -4,7 +4,7 @@
   
 ### AI Engineer | MSc AI Student | Research Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+systems;Researching+AI+privacy+%26+fairness;From+Aberdeen+%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%B3%F3%A0%81%A3%F3%A0%81%B4%F3%A0%81%BF+to+the+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+systems;Researching+AI+privacy+%26+fairness)](https://git.io/typing-svg)
 
 </div>
 
